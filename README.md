@@ -1,7 +1,7 @@
 # Particle-Filter-Visualizer
 Visualizer for the Particle-Filter
 
-[screenshot](Screenshot.png)
+![screenshot](Screenshot.png)
 
 ## Dependencies
 * python-matplotlib https://matplotlib.org/users/installing.html
@@ -15,3 +15,6 @@ python ParticleFilterVisualizer.py -f <dataFolder> -p <particleFile> -n <numberO
 
 e.g.: python ParticleFilterVisualizer.py -f /data/ -p particles.txt -n 100 -o myFile
 ```
+
+## Resulting video
+![video](animation.mp4)
